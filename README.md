@@ -1,0 +1,2 @@
+# JavaAssignmentsPratian
+Core Java Assignments
